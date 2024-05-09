@@ -1,0 +1,300 @@
+@media(max-width:1300px){
+
+    .content-hero {
+        width: 60vw;
+    }
+
+    .sec9-text {
+        width: 30%;
+    }
+
+    .sec10-info {
+        width: 70%;
+        left: 20%;
+    }
+
+    .inner h1 {
+        font-size: 3.7rem;
+    }
+
+    .inner p {
+        font-size: 2.5rem;
+        line-height: 4rem;
+    }
+
+    .top12 p {
+        font-size: 4rem;
+        line-height: 6rem;
+    }
+
+    .company img {
+        width: 30rem;
+        height: auto;
+    }
+
+    #section-13 {
+        height: 50vh;
+    }
+
+    .foot ul li {
+        font-size: 2.3rem;
+    }
+
+    .foot-3 input {
+        font-size: 2.5rem;
+    }
+
+    .foot-3 h3 {
+        font-size: 2.7rem;
+    }
+}
+
+
+@media(max-width:1000px){
+
+    .content-hero {
+        width: 80vw;
+    }
+
+    .content-hero-inner h4 {
+        font-size: 2rem;
+    }
+
+    #section-4 h1 {
+        font-size: 3rem;
+        line-height: 6rem;
+    }
+
+    #section-9 {
+        flex-direction: column;
+    }
+
+    .sec9-img {
+        width: 90%;
+        height: 70%;
+    }
+
+    .sec9-img-centre {
+        top: 80%;
+    }
+
+    #section-10 {
+        min-height: 150vh;
+    }
+
+    .top12 {
+        top: 10%;
+        right: 10%;
+    }
+
+    .top12 p {
+        font-size: 2.7rem;
+    }
+}
+
+@media (max-width:768px){
+    .content-hero {
+        width: 90vw;
+        left: 5%;
+    }
+
+    .content-hero h1 {
+        font-size: 5rem;
+    }
+
+    .content-hero-inner {
+     flex-direction: column;
+    }
+
+    .content-hero-inner h4 {
+        font-size: 2.3rem;
+    }
+
+    .content-hero-inner button {
+        font-size: 1.6rem;
+    }
+
+    #section-2 h2 {
+        font-size: 2rem;
+        line-height: 3.5rem;
+    }
+
+    #section-2 p {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    #section-4 h1 {
+        font-size: 2.5rem;
+        line-height: 4.5rem;
+    }
+
+    #section-4 h3 {
+        font-size: 2.3rem;
+        line-height: 3.5rem;
+    }
+
+    #section-6 h1 {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    #section-6 h3 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+
+    #section-7{
+        display: none;
+    }
+
+    .sec8-info button {
+        padding: 1.5rem 3.5rem;
+        font-size: 2rem;
+    }
+
+    #section-11 {
+        min-height: 130vh;
+        height: 0;
+        margin: 2rem 2rem;
+    }
+
+    #section-11>h1 {
+        position: static;
+        margin-bottom: 2rem;
+    }
+
+    .inner {
+        height: 100%;
+    }
+
+    .sec11-inner {
+        height: 30%;
+        flex-direction: column;
+        top: 0;
+        margin-bottom: 0;
+    }
+
+    .left11 {
+        width: 80%;
+    }
+
+    .right11 {
+        position: static;
+        width: 70%;
+    }
+
+    .right11>h1 {
+        font-size: 2.2rem;
+    }
+
+    .top12 {
+        right: 1%;
+    }
+
+    .top12 p {
+        font-size: 2.2rem;
+        line-height: 4rem;
+    }
+
+    #section-13 h1 {
+        font-size: 7rem;
+    }
+
+    .foot {
+        width: 100%;
+        flex-wrap: wrap;
+        padding: 2rem;
+    }
+}
+
+
+@media (max-width:568px){
+
+    .content-hero {
+        height: 35vh;
+    }
+
+    .content-hero h1 {
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+
+    .content-hero-inner h4 {
+        font-size: 1.5rem;
+    }
+
+    #section-2 h2 {
+        font-size: 1.5rem;
+        line-height: 3rem;
+    }
+
+    #section-2 {
+        padding: 4rem;
+    }
+
+    #section-4 {
+        padding: 4rem;
+    }
+
+    #section-4 h3 {
+        font-size: 1.3rem;
+        line-height: 2.5rem;
+    }
+
+    #section-4 h1 {
+        font-size: 2rem;
+        line-height: 3.5rem;
+    }
+
+    #section-6 {
+        padding: 4rem;
+    }
+
+    #section-6 h3 {
+        font-size: 1.2rem;
+        line-height: 2.5rem;
+    }
+
+    #section-6 h1 {
+        font-size: 2.5rem;
+        line-height: 4rem;
+    }
+
+    .sec9-text {
+        width: 70%;
+    }
+
+    .sec9-img {
+        width: 95%;
+        height: 50%;
+    }
+
+    .sec10-info {
+        width: 90%;
+        left: 10%;
+    }
+
+    .inner h1 {
+        font-size: 3rem;
+    }
+
+    .inner p {
+        font-size: 2rem;
+        line-height: 3.4rem;
+    }
+
+    #section-11>h1 {
+        font-size: 6rem;
+    }
+
+    .top12 h1 {
+        font-size: 5rem;
+    }
+
+    #section-13 h1 {
+        font-size: 4rem;
+        line-height: 5.2rem;
+    }
+
+}
